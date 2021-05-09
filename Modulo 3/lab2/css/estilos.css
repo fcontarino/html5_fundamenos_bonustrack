@@ -1,0 +1,32 @@
+body{
+    font-size: 80%;
+    font-family: Verdana;
+    margin: 0;
+    padding-left: 10px;
+}
+
+form{
+    margin-left: 20px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 110%;
+}
+
+input[type='radio'], input[type='checkbox'] {
+    width: 10px;
+    height: 10px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: lightblue;
+    border: 1px solid black;
+}

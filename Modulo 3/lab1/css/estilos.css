@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@500&display=swap');
+
+body{
+    font-size: 80%;
+    font-family: 'Sansita Swashed', cursive;
+    margin: 0;
+    padding-left: 10px;
+}
+
+form{
+    margin-left: 20px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 110%;
+}
+
+button{
+    width: 208px;
+    height: 30px;
+}
